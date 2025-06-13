@@ -1,3 +1,3 @@
 # MsCode
 for fun
-Author - Ms
+Author - Ms(AI developer)
